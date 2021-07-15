@@ -24,8 +24,16 @@
             Creating a new community for engaging science and curiousity
           </p>
           <ul class="actions">
-            <li><a href="#one" class="button scrolly">Sign up</a></li>
-            <li><a href="#one" class="button scrolly">Log in</a></li>
+            <li>
+              <a href="https://catalyst56.com/signup" class="button scrolly"
+                >Sign up</a
+              >
+            </li>
+            <li>
+              <a href="https://catalyst56.com/login" class="button scrolly"
+                >Log in</a
+              >
+            </li>
           </ul>
         </div>
       </section>
