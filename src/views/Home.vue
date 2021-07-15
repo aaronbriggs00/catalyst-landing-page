@@ -21,7 +21,7 @@
         <div class="inner">
           <h1>Catalyst56</h1>
           <p>
-            Creating a new community for engaging science and curiousity
+            Creating a new community for engaging science and curiosity
           </p>
           <ul class="actions">
             <li>
