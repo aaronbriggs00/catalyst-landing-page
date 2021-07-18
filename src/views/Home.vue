@@ -46,9 +46,9 @@
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>Sed ipsum dolor</h2>
+              <h2>About the founders</h2>
               <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                This is about the foudners. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
                 turpis mauris, eu ultricies erat malesuada quis. Aliquam
                 dapibus.
               </p>
