@@ -42,13 +42,13 @@
       <section id="one" class="wrapper style2 spotlights">
         <section>
           <a href="#" class="image"
-            ><img src="images/pic01.jpg" alt="" data-position="center center"
+            ><img src="https://images.unsplash.com/photo-1563632775921-88cded52ae6f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=770&q=80" alt="" data-position="center center"
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>Sed ipsum dolor</h2>
+              <h2>About the founders</h2>
               <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                This is about the foudners. Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
                 turpis mauris, eu ultricies erat malesuada quis. Aliquam
                 dapibus.
               </p>
