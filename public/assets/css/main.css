@@ -2012,7 +2012,7 @@ input[type="button"].primary,
 button.primary,
 .button.primary {
   background-color: #ffffff;
-  color: #132028 !important;
+  color: #312450 !important;
 }
 
 input[type="submit"].primary:after,
@@ -2446,7 +2446,7 @@ select {
 
 select option {
   color: #ffffff;
-  background: #132028;
+  background: #312450;
 }
 
 select:focus::-ms-value {
@@ -2615,7 +2615,7 @@ input[type="radio"] + label:before {
   display: block;
   background: #ffffff;
   border-radius: 100%;
-  color: #132028;
+  color: #312450;
   text-align: center;
   line-height: 2.5em;
   margin: 0 0 1.3em 0;
@@ -3583,7 +3583,7 @@ body.is-preload .wrapper.fade > .inner {
 
 #sidebar {
   padding: 2.5em 2.5em 0.5em 2.5em;
-  background: #132028;
+  background: #312450;
   cursor: default;
   height: 100vh;
   left: 0;
