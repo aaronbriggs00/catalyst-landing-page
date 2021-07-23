@@ -6,9 +6,9 @@
         <nav>
           <ul>
             <li><a href="#intro">Welcome</a></li>
-            <li><a href="#one">Who we are</a></li>
-            <li><a href="#two">What we do</a></li>
-            <li><a href="#three">Get in touch</a></li>
+            <li><a href="#one">Our Mission</a></li>
+            <li><a href="#two">What We Do</a></li>
+            <li><a href="#three">Contact Us</a></li>
           </ul>
         </nav>
       </div>
@@ -49,11 +49,16 @@
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>About the founders</h2>
+              <h2>Our Mission</h2>
               <p>
-                This is about the foudners. Phasellus convallis elit id
-                ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies
-                erat malesuada quis. Aliquam dapibus.
+                Catalyst56 is the platform for all things STEM 
+              </p>
+              <p>
+                We are striving to create a community whereby users can collaborate on research, author and consume relevant content and news, and build professional networks
+              </p>
+              <p>
+              Whether you are a student seeking to discuss laboratory findings or a thesis, a recent graduate wanting to establish industry connections, or someone completely outside of the field, solely interested in a science repository,
+                Catalyst56 is that hub
               </p>
               <ul class="actions">
                 <li><a href="generic.html" class="button">Learn more</a></li>
@@ -67,7 +72,7 @@
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>Feugiat consequat</h2>
+              <h2>Who We Are</h2>
               <p>
                 Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
                 turpis mauris, eu ultricies erat malesuada quis. Aliquam
@@ -85,7 +90,7 @@
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>Ultricies aliquam</h2>
+              <h2>Who We Are 2</h2>
               <p>
                 Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
                 turpis mauris, eu ultricies erat malesuada quis. Aliquam
@@ -102,7 +107,7 @@
       <!-- Two -->
       <section id="two" class="wrapper style3 fade-up">
         <div class="inner">
-          <h2>What we do</h2>
+          <h2>What We Do</h2>
           <p>
             Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
             turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,
@@ -168,7 +173,7 @@
       <!-- Three -->
       <section id="three" class="wrapper style1 fade-up">
         <div class="inner">
-          <h2>Get in touch</h2>
+          <h2>Contact Us</h2>
           <p>
             Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
             turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,
