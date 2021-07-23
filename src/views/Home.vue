@@ -19,9 +19,9 @@
       <!-- Intro -->
       <section id="intro" class="wrapper style1 fullscreen fade-up">
         <div class="inner">
-          <h1>Catalyst56</h1>
+          <h1>CATALYST56</h1>
           <p>
-            Creating a new community for engaging science and curiosity
+            Science. Together.
           </p>
           <ul class="actions">
             <li>
