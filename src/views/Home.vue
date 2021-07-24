@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <!-- Sidebar -->
-    <section id="sidebar" style="background-color: #d8c3a5;"><div class="inner"><nav><ul><li><a href="#intro">Welcome</a></li><li><a href="#one">Our Mission</a></li><li><a href="#two">What We Do</a></li><li><a href="#three">Contact Us</a></li></ul></nav></div></section>
+    <section id="sidebar" style="background-color: #d8c3a5;"><div class="inner"><nav><ul><li><a href="#intro" style="color: #8e8d8a;">Welcome</a></li><li><a href="#one">Our Mission</a></li><li><a href="#two">What We Do</a></li><li><a href="#three">Contact Us</a></li></ul></nav></div></section>
 
     <!-- Wrapper -->
     <div id="wrapper">
