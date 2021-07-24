@@ -17,26 +17,8 @@
     <!-- Wrapper -->
     <div id="wrapper">
       <!-- Intro -->
-      <section id="intro" class="wrapper style1 fullscreen fade-up">
-        <div class="inner">
-          <h1>CATALYST56</h1>
-          <p>
-            Science. Together.
-          </p>
-          <ul class="actions">
-            <li>
-              <a href="https://catalyst56.com/signup" class="button scrolly"
-                >Sign up</a
-              >
-            </li>
-            <li>
-              <a href="https://catalyst56.com/login" class="button scrolly"
-                >Log in</a
-              >
-            </li>
-          </ul>
-        </div>
-      </section>
+      <section id="intro" class="wrapper style1 fullscreen fade-up" style="background-color: #eae7dc;"><div class="inner"><h1 style="color: #8e8d8a;">CATALYST<span style="color: rgb(232, 90, 79);">56</span></h1><span style="color: rgb(232, 90, 79);"></span></h1><p style="color: #8e8d8a;"> Science. Together. </p><ul class="actions"><li><a href="https://catalyst56.com/signup" class="button scrolly">Sign up</a></li><li><a href="https://catalyst56.com/login" class="button scrolly">Log in</a></li></ul></div></section>
+        
 
       <!-- One -->
       <section id="one" class="wrapper style2 spotlights">
