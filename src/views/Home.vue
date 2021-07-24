@@ -56,10 +56,6 @@
               <p>
                 We are striving to create a community whereby users can collaborate on research, author and consume relevant content and news, and build professional networks
               </p>
-              <p>
-              Whether you are a student seeking to discuss laboratory findings or a thesis, a recent graduate wanting to establish industry connections, or someone completely outside of the field, solely interested in a science repository,
-                Catalyst56 is that hub
-              </p>
               <ul class="actions">
                 <li><a href="generic.html" class="button">Learn more</a></li>
               </ul>
@@ -109,15 +105,13 @@
         <div class="inner">
           <h2>What We Do</h2>
           <p>
-            Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-            turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,
-            lacus eget hendrerit bibendum, urna est aliquam sem, sit amet
-            imperdiet est velit quis lorem.
+          Whether you are a student seeking to discuss laboratory findings or a thesis, a recent graduate wanting to establish industry connections, or someone completely outside of the field, solely interested in a science repository,
+                Catalyst56 is that hub
           </p>
           <div class="features">
             <section>
               <span class="icon solid major fa-code"></span>
-              <h3>Lorem ipsum amet</h3>
+              <h3>Collaborate on Research</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
                 aliquam turpis mauris, sed ultricies erat dapibus.
@@ -125,7 +119,7 @@
             </section>
             <section>
               <span class="icon solid major fa-lock"></span>
-              <h3>Aliquam sed nullam</h3>
+              <h3>Author and Consume Content</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
                 aliquam turpis mauris, sed ultricies erat dapibus.
@@ -133,7 +127,7 @@
             </section>
             <section>
               <span class="icon solid major fa-cog"></span>
-              <h3>Sed erat ullam corper</h3>
+              <h3>Build Networks</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
                 aliquam turpis mauris, sed ultricies erat dapibus.
@@ -141,7 +135,7 @@
             </section>
             <section>
               <span class="icon solid major fa-desktop"></span>
-              <h3>Veroeros quis lorem</h3>
+              <h3>Function 4</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
                 aliquam turpis mauris, sed ultricies erat dapibus.
@@ -149,7 +143,7 @@
             </section>
             <section>
               <span class="icon solid major fa-link"></span>
-              <h3>Urna quis bibendum</h3>
+              <h3>Function 5</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
                 aliquam turpis mauris, sed ultricies erat dapibus.
@@ -157,7 +151,7 @@
             </section>
             <section>
               <span class="icon major fa-gem"></span>
-              <h3>Aliquam urna dapibus</h3>
+              <h3>Function 6</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
                 aliquam turpis mauris, sed ultricies erat dapibus.
