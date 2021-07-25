@@ -21,7 +21,7 @@
       <section id="intro" class="wrapper style1 fullscreen fade-up">
         <div class="inner">
             <h1>
-              CATALYST<span>56</span>
+              CATALYST<span class="catalyst-brand">56</span>
             </h1>
             <span></span></h1>
             <p> Science. Together. </p>
@@ -46,7 +46,7 @@
         <section>
           <a href="#" class="image"
             ><img
-              src="images/pic01.jpg"
+              src="images/labcoat.jpeg"
               alt=""
               data-position="center center"
           /></a>
@@ -61,14 +61,14 @@
                 We are striving to create a community whereby users can collaborate on research, author and consume relevant content and news, and build professional networks
               </p>
               <ul class="actions">
-                <li><a href="generic.html" class="button">Learn more</a></li>
+                <li><a href="mission" class="button">Learn more</a></li>
               </ul>
             </div>
           </div>
         </section>
         <section>
           <a href="#" class="image"
-            ><img src="images/pic02.jpg" alt="" data-position="top center"
+            ><img src="images/scope.jpeg" alt="" data-position="top center"
           /></a>
           <div class="content">
             <div class="inner">
@@ -86,7 +86,7 @@
         </section>
         <section>
           <a href="#" class="image"
-            ><img src="images/pic03.jpg" alt="" data-position="25% 25%"
+            ><img src="images/math.jpeg" alt="" data-position="25% 25%"
           /></a>
           <div class="content">
             <div class="inner">
@@ -114,7 +114,7 @@
           </p>
           <div class="features">
             <section>
-              <span class="icon solid major fa-code"></span>
+              <span class="icon solid major fa-flask"></span>
               <h3>Collaborate on Research</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
@@ -130,7 +130,7 @@
               </p>
             </section>
             <section>
-              <span class="icon solid major fa-cog"></span>
+              <span class="icon solid major fa-users"></span>
               <h3>Build Networks</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
@@ -140,22 +140,6 @@
             <section>
               <span class="icon solid major fa-desktop"></span>
               <h3>Function 4</h3>
-              <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
-              </p>
-            </section>
-            <section>
-              <span class="icon solid major fa-link"></span>
-              <h3>Function 5</h3>
-              <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
-              </p>
-            </section>
-            <section>
-              <span class="icon major fa-gem"></span>
-              <h3>Function 6</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
                 aliquam turpis mauris, sed ultricies erat dapibus.
@@ -269,12 +253,8 @@
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
 
 export default {
   name: "Home",
-  components: {
-    HelloWorld,
-  },
 };
 </script>
