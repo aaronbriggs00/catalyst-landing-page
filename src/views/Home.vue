@@ -1,15 +1,15 @@
 <template>
   <div class="home">
     <!-- Sidebar -->
-    <section id="sidebar" style="background-color: #d8c3a5;">
+    <section id="sidebar">
       <div class="inner">
         <nav>
           <ul>
             <li>
-              <a href="#intro" style="color: #8e8d8a;">Welcome</a></li>
-            <li><a href="#one" style="color: #8e8d8a;">Our Mission</a></li>
-            <li><a href="#two" style="color: #8e8d8a;">What We Do</a></li>
-            <li><a href="#three" style="color: #8e8d8a;">Contact Us</a></li>
+              <a href="#intro">Welcome</a></li>
+            <li><a href="#one">Our Mission</a></li>
+            <li><a href="#two">What We Do</a></li>
+            <li><a href="#three">Contact Us</a></li>
           </ul>
         </nav>
       </div>
@@ -18,13 +18,13 @@
     <!-- Wrapper -->
     <div id="wrapper">
       <!-- Intro -->
-      <section id="intro" class="wrapper style1 fullscreen fade-up" style="background-color: #eae7dc;">
+      <section id="intro" class="wrapper style1 fullscreen fade-up">
         <div class="inner">
-            <h1 style="color: #8e8d8a;">
-              CATALYST<span style="color: #e85a4f;">56</span>
+            <h1>
+              CATALYST<span>56</span>
             </h1>
-            <span style="color: rgb(232, 90, 79);"></span></h1>
-            <p style="color: #8e8d8a;"> Science. Together. </p>
+            <span></span></h1>
+            <p> Science. Together. </p>
           <ul class="actions">
             <li>
               <a href="https://catalyst56.com/signup" class="button scrolly">
@@ -50,8 +50,8 @@
               alt=""
               data-position="center center"
           /></a>
-          <div class="content" style="background-color: #8e8d8a;">
-            <div class="inner" style="color: #eae7dc;">
+          <div class="content">
+            <div class="inner">
               <h2>
                 Our Mission  </h2>
               <p>
