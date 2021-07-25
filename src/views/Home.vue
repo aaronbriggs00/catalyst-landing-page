@@ -50,9 +50,10 @@
               alt=""
               data-position="center center"
           /></a>
-          <div class="content">
-            <div class="inner">
-              <h2>Our Mission</h2>
+          <div class="content" style="background-color: #8e8d8a;">
+            <div class="inner" style="color: #eae7dc;">
+              <h2>
+                Our Mission  </h2>
               <p>
                 Catalyst56 is the platform for all things STEM 
               </p>
