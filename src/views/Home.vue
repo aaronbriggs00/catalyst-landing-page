@@ -74,12 +74,12 @@
             <div class="inner">
               <h2>Who We Are</h2>
               <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                I am Alexi Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
                 turpis mauris, eu ultricies erat malesuada quis. Aliquam
                 dapibus.
               </p>
               <ul class="actions">
-                <li><a href="generic.html" class="button">Learn more</a></li>
+                <li><a href="whoweare" class="button">Learn more</a></li>
               </ul>
             </div>
           </div>
@@ -97,7 +97,7 @@
                 dapibus.
               </p>
               <ul class="actions">
-                <li><a href="generic.html" class="button">Learn more</a></li>
+                <li><a href="whoweare2" class="button">Learn more</a></li>
               </ul>
             </div>
           </div>
