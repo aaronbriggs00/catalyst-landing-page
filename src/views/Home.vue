@@ -1,7 +1,21 @@
 <template>
   <div class="home">
     <!-- Sidebar -->
-    <section id="sidebar" style="background-color: #d8c3a5;"><div class="inner"><nav><ul><li><a href="#intro" style="color: #8e8d8a;">Welcome</a></li><li><a href="#one" style="color: #8e8d8a;">Our Mission</a></li><li><a href="#two" style="color: #8e8d8a;">What We Do</a></li><li><a href="#three" style="color: #8e8d8a;">Contact Us</a></li></ul></nav></div></section>
+    <section id="sidebar" style="background-color: #d8c3a5;">
+      <div class="inner">
+        <nav>
+          <ul>
+            <li>
+              <a href="#intro" style="color: #8e8d8a;">Welcome
+              </a>
+            </li>
+            <li><a href="#one" style="color: #8e8d8a;">Our Mission</a></li>
+            <li><a href="#two" style="color: #8e8d8a;">What We Do</a></li>
+            <li><a href="#three" style="color: #8e8d8a;">Contact Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </section>
 
     <!-- Wrapper -->
     <div id="wrapper">
