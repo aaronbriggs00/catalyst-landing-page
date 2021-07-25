@@ -74,7 +74,7 @@
             <div class="inner">
               <h2>Who We Are</h2>
               <p>
-                I am Alexi Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
+                I am Alexi Papa Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
                 turpis mauris, eu ultricies erat malesuada quis. Aliquam
                 dapibus.
               </p>
