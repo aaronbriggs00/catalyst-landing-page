@@ -21,7 +21,7 @@
       <section id="intro" class="wrapper style1 fullscreen fade-up" style="background-color: #eae7dc;">
         <div class="inner">
             <h1 style="color: #8e8d8a;">
-              CATALYST<span style="color: rgb(232, 90, 79);">56</span>
+              CATALYST<span style="color: #e85a4f;">56</span>
             </h1>
             <span style="color: rgb(232, 90, 79);"></span></h1>
             <p style="color: #8e8d8a;"> Science. Together. </p>
