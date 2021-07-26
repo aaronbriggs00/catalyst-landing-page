@@ -8,7 +8,7 @@
             <li>
               <a href="#intro">Welcome</a></li>
             <li><a href="#one">Our Mission</a></li>
-            <li><a href="#two">What We Do</a></li>
+            <li><a href="#two">Functionality</a></li>
             <li><a href="#three">Contact Us</a></li>
           </ul>
         </nav>
@@ -55,10 +55,10 @@
               <h2>
                 Our Mission  </h2>
               <p>
-                Catalyst56 is the platform for all things STEM 
+                Create a community whereby users can collaborate on research, author and consume relevant content and news, and build professional networks
               </p>
               <p>
-                We are striving to create a community whereby users can collaborate on research, author and consume relevant content and news, and build professional networks
+                This is science, together
               </p>
               <ul class="actions">
                 <li><a href="mission" class="button">Learn more</a></li>
@@ -107,7 +107,7 @@
       <!-- Two -->
       <section id="two" class="wrapper style3 fade-up">
         <div class="inner">
-          <h2>What We Do</h2>
+          <h2>Functionality</h2>
           <p>
           Whether you are a student seeking to discuss laboratory findings or a thesis, a recent graduate wanting to establish industry connections, or someone completely outside of the field, solely interested in a science repository,
                 Catalyst56 is that hub
@@ -122,8 +122,16 @@
               </p>
             </section>
             <section>
-              <span class="icon solid major fa-lock"></span>
-              <h3>Author and Consume Content</h3>
+              <span class="icon solid major fa-pen-nib"></span>
+              <h3>Author Content</h3>
+              <p>
+                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+                aliquam turpis mauris, sed ultricies erat dapibus.
+              </p>
+            </section>
+            <section>
+              <span class="icon solid major fa-newspaper"></span>
+              <h3>Consume News</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
                 aliquam turpis mauris, sed ultricies erat dapibus.
@@ -132,14 +140,6 @@
             <section>
               <span class="icon solid major fa-users"></span>
               <h3>Build Networks</h3>
-              <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
-              </p>
-            </section>
-            <section>
-              <span class="icon solid major fa-desktop"></span>
-              <h3>Function 4</h3>
               <p>
                 Phasellus convallis elit id ullam corper amet et pulvinar. Duis
                 aliquam turpis mauris, sed ultricies erat dapibus.
