@@ -8,7 +8,7 @@
             <li>
               <a href="#intro">Welcome</a></li>
             <li><a href="#one">Our Mission</a></li>
-            <li><a href="#two">Functionality</a></li>
+            <li><a href="#two">Functions</a></li>
             <li><a href="#three">Contact Us</a></li>
           </ul>
         </nav>
@@ -107,7 +107,7 @@
       <!-- Two -->
       <section id="two" class="wrapper style3 fade-up">
         <div class="inner">
-          <h2>Functionality</h2>
+          <h2>Functions</h2>
           <p>
           Whether you are a student seeking to discuss laboratory findings or a thesis, a recent graduate wanting to establish industry connections, or someone completely outside of the field, solely interested in a science repository,
                 Catalyst56 is that hub
