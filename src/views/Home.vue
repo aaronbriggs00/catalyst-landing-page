@@ -72,7 +72,7 @@
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>Who We Are</h2>
+              <h2>Debating if we need - Who We Are</h2>
               <p>
                 I am Alexi Papa Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
                 turpis mauris, eu ultricies erat malesuada quis. Aliquam
@@ -90,7 +90,7 @@
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>Who We Are 2</h2>
+              <h2>Debating if we need - Who We Are 2</h2>
               <p>
                 Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
                 turpis mauris, eu ultricies erat malesuada quis. Aliquam
@@ -156,12 +156,6 @@
       <section id="three" class="wrapper style1 fade-up">
         <div class="inner">
           <h2>Contact Us</h2>
-          <p>
-            Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-            turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,
-            lacus eget hendrerit bibendum, urna est aliquam sem, sit amet
-            imperdiet est velit quis lorem.
-          </p>
           <div class="split style1">
             <section>
               <form method="post" action="#">
