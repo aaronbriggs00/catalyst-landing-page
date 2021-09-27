@@ -72,7 +72,7 @@
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>Debating if we need - Who We Are</h2>
+              <h2>Who We Are</h2>
               <p>
                   Our love for learning and research is simply the tip of the iceberg. The team at Catalyst56 is striving to share their passion in science to academic and professional communities around the world.
               </p>
