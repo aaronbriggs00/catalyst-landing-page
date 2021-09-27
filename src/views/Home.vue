@@ -8,7 +8,7 @@
             <li>
               <a href="#intro">Welcome</a></li>
             <li><a href="#one">Our Mission</a></li>
-            <li><a href="#two">What We Do</a></li>
+            <li><a href="#two">Functions</a></li>
             <li><a href="#three">Contact Us</a></li>
           </ul>
         </nav>
@@ -72,7 +72,7 @@
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>Who We Are</h2>
+              <h2>Debating if we need - Who We Are</h2>
               <p>
                   Our love for learning and research is simply the tip of the iceberg. The team at Catalyst56 is striving to share their passion in science to academic and professional communities around the world.
               </p>
@@ -103,7 +103,7 @@
       <!-- Two -->
       <section id="two" class="wrapper style3 fade-up">
         <div class="inner">
-          <h2>What We Do</h2>
+          <h2>Functions</h2>
           <p>
 
           </p>
@@ -123,8 +123,8 @@
               </p>
             </section>
             <section>
-              <span class="icon solid major fa-users"></span>
-              <h3>Build Networks</h3>
+              <span class="icon solid major fa-newspaper"></span>
+              <h3>Consume News</h3>
               <p>
                 Create a professional network with cross-disciplinary reach. Leverage the underutilized value of the international STEM community.
               </p>
