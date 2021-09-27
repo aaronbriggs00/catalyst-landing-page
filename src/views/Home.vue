@@ -55,13 +55,13 @@
               <h2>
                 Our Mission  </h2>
               <p>
-                Catalyst56 is the platform for all things STEM 
+                Catalyst56 is the perfect hub for all things science, technology, engineering and mathematics 
               </p>
               <p>
-                We are striving to create a community whereby users can collaborate on research, author and consume relevant content and news, and build professional networks
+                A community whereby users can collaborate on research, author and consume relevant content and news, and build professional networks
               </p>
               <ul class="actions">
-                <li><a href="mission" class="button">Learn more</a></li>
+                <li><a href="https://catalyst56.com/wip" class="button">Learn more</a></li>
               </ul>
             </div>
           </div>
@@ -74,12 +74,10 @@
             <div class="inner">
               <h2>Who We Are</h2>
               <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-                turpis mauris, eu ultricies erat malesuada quis. Aliquam
-                dapibus.
+                  Our love for learning and research is simply the tip of the iceberg. The team at Catalyst56 is striving to share their passion in science to academic and professional communities around the world.
               </p>
               <ul class="actions">
-                <li><a href="generic.html" class="button">Learn more</a></li>
+                <li><a href="https://catalyst56.com/wip" class="button">Learn more</a></li>
               </ul>
             </div>
           </div>
@@ -90,14 +88,12 @@
           /></a>
           <div class="content">
             <div class="inner">
-              <h2>Who We Are 2</h2>
+              <h2>Our Vision</h2>
               <p>
-                Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-                turpis mauris, eu ultricies erat malesuada quis. Aliquam
-                dapibus.
+                The traditional apparatus surrounding the communcation of research efforts does not facilitate or enable many of our brightest minds in ways that modern technology and services have shown is capable in the 21st century. Catalyst56 aims to bring the power of online discourse, collaboration, and networking to voices and readers throughout the systems of academic research and tech industries. 
               </p>
               <ul class="actions">
-                <li><a href="generic.html" class="button">Learn more</a></li>
+                <li><a href="https://catalyst56.com/wip" class="button">Learn more</a></li>
               </ul>
             </div>
           </div>
@@ -109,45 +105,40 @@
         <div class="inner">
           <h2>What We Do</h2>
           <p>
-          Whether you are a student seeking to discuss laboratory findings or a thesis, a recent graduate wanting to establish industry connections, or someone completely outside of the field, solely interested in a science repository,
-                Catalyst56 is that hub
+
           </p>
           <div class="features">
             <section>
               <span class="icon solid major fa-flask"></span>
               <h3>Collaborate on Research</h3>
               <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
+                Connect with others who are studying, working, researching or simply interested in your field of study.
               </p>
             </section>
             <section>
-              <span class="icon solid major fa-lock"></span>
-              <h3>Author and Consume Content</h3>
+              <span class="icon solid major fa-pen-alt"></span>
+              <h3>Author Content</h3>
               <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
+                Build your own portfolio of content in your field. Catalyst56 allow users to easily access and find what they're looking for.
               </p>
             </section>
             <section>
               <span class="icon solid major fa-users"></span>
               <h3>Build Networks</h3>
               <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
+                Create a professional network with cross-disciplinary reach. Leverage the underutilized value of the international STEM community.
               </p>
             </section>
             <section>
-              <span class="icon solid major fa-desktop"></span>
-              <h3>Function 4</h3>
+              <span class="icon solid major fa-lightbulb"></span>
+              <h3>Discover</h3>
               <p>
-                Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-                aliquam turpis mauris, sed ultricies erat dapibus.
+                With user-driven content 'rising to the top', reignite the curiousity that brought you into this passion in new and related fields.
               </p>
             </section>
           </div>
           <ul class="actions">
-            <li><a href="generic.html" class="button">Learn more</a></li>
+            <li><a href="https://catalyst56.com/wip" class="button">Learn more</a></li>
           </ul>
         </div>
       </section>
@@ -157,10 +148,7 @@
         <div class="inner">
           <h2>Contact Us</h2>
           <p>
-            Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
-            turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,
-            lacus eget hendrerit bibendum, urna est aliquam sem, sit amet
-            imperdiet est velit quis lorem.
+
           </p>
           <div class="split style1">
             <section>
@@ -189,18 +177,18 @@
                 <li>
                   <h3>Address</h3>
                   <span
-                    >12345 Somewhere Road #654<br />
-                    Nashville, TN 00000-0000<br />
+                    >6177 N Lincoln Ave, Suite 368<br />
+                    Chicago, IL 60659<br />
                     USA</span
                   >
                 </li>
                 <li>
                   <h3>Email</h3>
-                  <a href="#">user@untitled.tld</a>
+                  <a href="#">frontdesk@catalyst56.com</a>
                 </li>
                 <li>
                   <h3>Phone</h3>
-                  <span>(000) 000-0000</span>
+                  <span>(847) 284-0526</span>
                 </li>
                 <li>
                   <h3>Social</h3>
@@ -243,8 +231,6 @@
     <footer id="footer" class="wrapper style1-alt">
       <div class="inner">
         <ul class="menu">
-          <li>&copy; Untitled. All rights reserved.</li>
-          <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
         </ul>
       </div>
     </footer>
